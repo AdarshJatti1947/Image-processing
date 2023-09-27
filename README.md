@@ -1,1 +1,1 @@
-Go through the code to iuse the both algos efficiently 
+Go through the code to use the both algos efficiently 
